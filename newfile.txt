@@ -1,1 +1,1 @@
-"Some new content" 
+"Conflicting content" 
